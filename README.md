@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lara-L&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=pt-br&hide_border=false&order=1" height="130" alt="stats graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Lara-L&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=pt-br&hide_border=false&order=1"&cache_seconds=1 height="130" alt="stats graph"  />  
 </div>
 <br />
 
